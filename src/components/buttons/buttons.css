@@ -1,0 +1,9 @@
+.buttons{
+    height: 4rem;
+    background-color: red;
+    border-left: 2px solid grey;
+    border-right: 2px solid grey;
+}
+.buttons a{
+    text-decoration: none;
+}
