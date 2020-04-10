@@ -2,10 +2,9 @@ import React from 'react';
 //css
 import './App.css';
 //components
-import FloatButton from './components/FloatButton';
 import Menu from './components/menu';
 import Gallery from './components/gallery/Gallery';
-import Modal from './components/SimpleModal';
+// import ChatWidget from './components/ChatWidget';
 
 function App() {
   return (
@@ -16,7 +15,6 @@ function App() {
       <Gallery/>
       <br/>
       <br/>
-      <Modal/>
     </div>
   );
 }
