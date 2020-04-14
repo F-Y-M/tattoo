@@ -27,15 +27,14 @@ const useStyles ={
 
 export default class ImageGridList extends Component {
   state = {
-    open:false
+    open: false,
+    target: null,
+    img: undefined
   };
 
-  openClick = () => {
-  this.setState({open:true})
-  return (this.state);
+  onClick = (e)=>{
+    this.setState({open:true,target:e.target.src});
   }
-
-  alert = ()=>alert('galeria')
 
   closeClick = () => this.setState({open:false});
 
@@ -44,20 +43,13 @@ export default class ImageGridList extends Component {
       <div style={useStyles.root}>
         {imgs.map((img) => (
             <div key={img.index} >
-          <Modal img={img.img} openClick={this.openClick}>
-            <a href="#" style={{cursor:'pointer'}} onClick={this.alert}>
+            <a href="#" style={{cursor:'pointer'}} onClick={this.onClick}>
               <img src={img.img} style={useStyles.gridList}/>
             </a>
-          </Modal>     
             </div>
         ))}
-          {/* <GridList cellHeight={100} style={useStyles.gridList} cols={8}>
-            {imgs.map((img) => (
-                <GridListTile key={img.index} cols={img.cols || 1} rows={img.rows}>
-                    <img src={img.img}/>
-                </GridListTile>
-            ))}
-          </GridList> */}
+        {this.state.open 
+            ? <Modal img={imgs} target={this.state.target} open={this.state.open}/> : '' }
       </div>
     );
   }
