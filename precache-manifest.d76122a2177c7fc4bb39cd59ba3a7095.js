@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0008b971fe33fca9519afb5fc6f36225",
+    "revision": "8e4a1135cee31cf05b45ca124381bef5",
     "url": "/tattoo/index.html"
   },
   {
-    "revision": "bc88ef22d5f4b933fc76",
-    "url": "/tattoo/static/css/main.d5c4c1f9.chunk.css"
+    "revision": "92fd245fd0176560daca",
+    "url": "/tattoo/static/css/main.06e34f2c.chunk.css"
   },
   {
     "revision": "cb7f1306459325d50eed",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tattoo/static/js/2.f0222f00.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bc88ef22d5f4b933fc76",
-    "url": "/tattoo/static/js/main.e8bc4667.chunk.js"
+    "revision": "92fd245fd0176560daca",
+    "url": "/tattoo/static/js/main.542493e2.chunk.js"
   },
   {
     "revision": "8caf435f933500c1481d",
