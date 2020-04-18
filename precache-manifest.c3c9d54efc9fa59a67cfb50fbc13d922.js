@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "30a11510bb96e00dd59e768f521473ee",
+    "revision": "0008b971fe33fca9519afb5fc6f36225",
     "url": "/tattoo/index.html"
   },
   {
-    "revision": "68ba3f1f512cc3b8aea2",
-    "url": "/tattoo/static/css/main.104b69bb.chunk.css"
+    "revision": "bc88ef22d5f4b933fc76",
+    "url": "/tattoo/static/css/main.d5c4c1f9.chunk.css"
   },
   {
     "revision": "cb7f1306459325d50eed",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tattoo/static/js/2.f0222f00.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "68ba3f1f512cc3b8aea2",
-    "url": "/tattoo/static/js/main.360fd2a2.chunk.js"
+    "revision": "bc88ef22d5f4b933fc76",
+    "url": "/tattoo/static/js/main.e8bc4667.chunk.js"
   },
   {
     "revision": "8caf435f933500c1481d",
@@ -274,5 +274,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d7dcbe0fb215c6cc572bcde44c833b1b",
     "url": "/tattoo/static/media/presentacion1.d7dcbe0f.jpg"
+  },
+  {
+    "revision": "94672ccfa7b5b62d3c0cf56883bd3ccd",
+    "url": "/tattoo/static/media/presentacion3.94672ccf.jpg"
   }
 ]);
