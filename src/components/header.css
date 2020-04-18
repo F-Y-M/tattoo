@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    width: 100%;
+    height: 30%;
+    background-image: url('./gallery/img/presentacion1.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-size: contain; 
+}
+
+.textos{
+    text-align: center;
+}
+
+@media screen and (min-width:320px){
+    header{
+        width: auto;
+        background-image: url('./gallery/img/presentacion2.jpg');
+        background-attachment: fixed;
+    }
+    .textos{
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 768px){
+ header{
+    background-image: url('./gallery/img/presentacion3.jpg');
+    width: 100%;
+    height: 20%;    
+    background-size: contain; 
+    background-repeat: no-repeat;
+ }   
+ .textos{
+     font-size: 4rem;
+ }
+  p{
+    color: black;
+ }
+}

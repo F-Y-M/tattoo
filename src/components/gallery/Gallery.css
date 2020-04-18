@@ -1,0 +1,15 @@
+.root {
+    width: 1500px;
+    height: 450px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    overflow: hidden;
+    background-color: white;
+  }
+
+  .gridList {
+    height: 10rem;
+    width: 8rem;
+    border-rAdius:'50px';
+  }

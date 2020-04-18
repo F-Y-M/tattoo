@@ -11,12 +11,19 @@
   src: url(./fuentes/Seagram.ttf) format("truetype");
 }
 body{
-  background: grey;
+  background: white;
+  padding: 0;
+  margin: 0;
+  width: 100%;
 }
 
 p{
-    font-family: 'Blackflag';
+  font-family: 'Blackflag';
   font-size: 4rem;
+  color:white;
+}
+#galeria{
+  color: black;
 }
 
 article{
@@ -26,9 +33,13 @@ article{
 }
 
 .menu{
-  background-color: blue;
   display: inline-flex;
   flex-direction: row;
   justify-items: center;
   align-items: center;
+}
+@media screen and (max-width: 720px){
+  body{
+    width: 100vh;
+  }
 }

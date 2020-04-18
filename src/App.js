@@ -23,7 +23,10 @@ class App extends Component{
         <br/>
         <Header/>
         <br/>
-        <br/>        
+        <br/> 
+        <p  id="galeria">
+        Galeria
+        </p>       
         <Gallery/>
         <br/>
         <br/>

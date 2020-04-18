@@ -7,21 +7,21 @@
     {
         "id" : "1",
         "nombre" : "galeria",
-        "url" : "./galeria"
+        "url" : "#galeria"
     },
     {
         "id" : "2",
         "nombre" : "citas",
-        "url" : "./citas"
+        "url" : "#citas"
     },
     {
         "id" : "3",
         "nombre" : "about us",
-        "url" : "./aboutUs"
+        "url" : "#aboutUs"
     },
     {
         "id" : "4",
         "nombre" : "contact us",
-        "url" : "./contact"
+        "url" : "#contact"
     }
 ]
