@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/tattoo/static/css/main.0832c55c.chunk.css",
+    "main.js": "/tattoo/static/js/main.df39ec33.chunk.js",
+    "main.js.map": "/tattoo/static/js/main.df39ec33.chunk.js.map",
+    "runtime-main.js": "/tattoo/static/js/runtime-main.23915efd.js",
+    "runtime-main.js.map": "/tattoo/static/js/runtime-main.23915efd.js.map",
+    "static/js/2.48e5911e.chunk.js": "/tattoo/static/js/2.48e5911e.chunk.js",
+    "static/js/2.48e5911e.chunk.js.map": "/tattoo/static/js/2.48e5911e.chunk.js.map",
+    "index.html": "/tattoo/index.html",
+    "precache-manifest.d43fcfde6a4d34c083a7a1aa62d6874a.js": "/tattoo/precache-manifest.d43fcfde6a4d34c083a7a1aa62d6874a.js",
+    "service-worker.js": "/tattoo/service-worker.js",
+    "static/css/main.0832c55c.chunk.css.map": "/tattoo/static/css/main.0832c55c.chunk.css.map",
+    "static/js/2.48e5911e.chunk.js.LICENSE.txt": "/tattoo/static/js/2.48e5911e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/tattoo/static/media/Vintage-punk.78cdc59a.ttf",
+    "static/media/estilos.css": "/tattoo/static/media/img47.2ca7762a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23915efd.js",
+    "static/js/2.48e5911e.chunk.js",
+    "static/css/main.0832c55c.chunk.css",
+    "static/js/main.df39ec33.chunk.js"
+  ]
+}
