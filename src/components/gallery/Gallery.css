@@ -1,10 +1,10 @@
 .root {
-    width: 1500px;
+    width: auto;
     height: 450px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    overflow: hidden;
+    overflow: scroll;
     background-color: white;
   }
 
@@ -12,4 +12,11 @@
     height: 10rem;
     width: 8rem;
     border-rAdius:'50px';
+  }
+
+  @media screen and (max-width:768px){
+    .root{
+        width: 65vh;
+        overflow: scroll;
+    }    
   }

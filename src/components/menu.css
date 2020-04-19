@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.menu{
+    width: 100%;
+    height: 60px;
+    background: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style: none;
+    /* float*/
+    z-index: 1;
+    position: fixed;
+}
+
+.elemento{
+    padding: 0 3px;
+    height: auto;
+}
+
+p{
+    font-size: 2rem;
+}
+
+a, .contact{
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: white;
+
+}
+
+@media screen and (max-width: 768px){
+    .contact{
+        text-decoration-color: aliceblue;
+        text-decoration: underline;
+        background-color: white;
+    }
+    a, .span{
+        font-size: 1rem;
+    }
+}

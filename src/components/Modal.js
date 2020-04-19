@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './estilos.css';
+import './modal.css';
 
 export default class Modal extends Component{
 
@@ -38,7 +38,7 @@ export default class Modal extends Component{
                             &times;
                         </span>
                     </div>
-                    <img src={this.state.target}/>
+                    <img src={this.state.target} alt=""/>
                     <div className='footer'>
                         <h3>hecho por &copy; juan quiñones </h3>
                     </div>

@@ -17,26 +17,19 @@ header{
     text-align: center;
 }
 
-@media screen and (min-width:320px){
-    header{
-        width: auto;
-        background-image: url('./gallery/img/presentacion2.jpg');
-        background-attachment: fixed;
-    }
-    .textos{
-        width: 100%;
-    }
-}
+
 
 @media screen and (max-width: 768px){
  header{
     background-image: url('./gallery/img/presentacion3.jpg');
-    width: 100%;
+    width: 65vh;
     height: 20%;    
     background-size: contain; 
     background-repeat: no-repeat;
+    background-position: top;
  }   
  .textos{
+     width: 65vh;
      font-size: 4rem;
  }
   p{
