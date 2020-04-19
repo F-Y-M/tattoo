@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tattoo/precache-manifest.d76122a2177c7fc4bb39cd59ba3a7095.js"
+  "/tattoo/precache-manifest.5da3f69c0a7b2aeebf6d6c6dcdb6fd81.js"
 );
 
 self.addEventListener('message', (event) => {

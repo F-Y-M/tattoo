@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/tattoo/static/css/main.06e34f2c.chunk.css",
-    "main.js": "/tattoo/static/js/main.542493e2.chunk.js",
-    "main.js.map": "/tattoo/static/js/main.542493e2.chunk.js.map",
+    "main.css": "/tattoo/static/css/main.06984ef0.chunk.css",
+    "main.js": "/tattoo/static/js/main.58f776cd.chunk.js",
+    "main.js.map": "/tattoo/static/js/main.58f776cd.chunk.js.map",
     "runtime-main.js": "/tattoo/static/js/runtime-main.23915efd.js",
     "runtime-main.js.map": "/tattoo/static/js/runtime-main.23915efd.js.map",
-    "static/js/2.f0222f00.chunk.js": "/tattoo/static/js/2.f0222f00.chunk.js",
-    "static/js/2.f0222f00.chunk.js.map": "/tattoo/static/js/2.f0222f00.chunk.js.map",
+    "static/js/2.10e110ed.chunk.js": "/tattoo/static/js/2.10e110ed.chunk.js",
+    "static/js/2.10e110ed.chunk.js.map": "/tattoo/static/js/2.10e110ed.chunk.js.map",
     "index.html": "/tattoo/index.html",
-    "precache-manifest.d76122a2177c7fc4bb39cd59ba3a7095.js": "/tattoo/precache-manifest.d76122a2177c7fc4bb39cd59ba3a7095.js",
+    "precache-manifest.5da3f69c0a7b2aeebf6d6c6dcdb6fd81.js": "/tattoo/precache-manifest.5da3f69c0a7b2aeebf6d6c6dcdb6fd81.js",
     "service-worker.js": "/tattoo/service-worker.js",
-    "static/css/main.06e34f2c.chunk.css.map": "/tattoo/static/css/main.06e34f2c.chunk.css.map",
-    "static/js/2.f0222f00.chunk.js.LICENSE.txt": "/tattoo/static/js/2.f0222f00.chunk.js.LICENSE.txt",
+    "static/css/main.06984ef0.chunk.css.map": "/tattoo/static/css/main.06984ef0.chunk.css.map",
+    "static/js/2.10e110ed.chunk.js.LICENSE.txt": "/tattoo/static/js/2.10e110ed.chunk.js.LICENSE.txt",
     "static/media/App.css": "/tattoo/static/media/Vintage-punk.78cdc59a.ttf",
     "static/media/img1.jpg": "/tattoo/static/media/img1.760d539d.jpg",
     "static/media/img10.jpg": "/tattoo/static/media/img10.ab90edcc.jpg",
@@ -54,7 +54,7 @@
     "static/media/img44.jpg": "/tattoo/static/media/img44.69d2ad88.jpg",
     "static/media/img45.jpg": "/tattoo/static/media/img45.b76afe4f.jpg",
     "static/media/img46.jpg": "/tattoo/static/media/img46.6f2caa76.jpg",
-    "static/media/estilos.css": "/tattoo/static/media/img47.2ca7762a.jpg",
+    "static/media/modal.css": "/tattoo/static/media/img47.2ca7762a.jpg",
     "static/media/img48.jpg": "/tattoo/static/media/img48.14f720b2.jpg",
     "static/media/img49.jpg": "/tattoo/static/media/img49.e6f36b21.jpg",
     "static/media/img5.jpg": "/tattoo/static/media/img5.61ca05aa.jpg",
@@ -76,8 +76,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.23915efd.js",
-    "static/js/2.f0222f00.chunk.js",
-    "static/css/main.06e34f2c.chunk.css",
-    "static/js/main.542493e2.chunk.js"
+    "static/js/2.10e110ed.chunk.js",
+    "static/css/main.06984ef0.chunk.css",
+    "static/js/main.58f776cd.chunk.js"
   ]
 }
