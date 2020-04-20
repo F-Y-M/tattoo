@@ -4,13 +4,12 @@
 @media screen and (max-width: 850px){
     .btn{
         display: block;
-        border-radius: 5px;
+        border-radius: 50px;
         height: 32px;
         width: 32px;
         margin: 0.5rem;
         z-index: 3;
         position: fixed;
-        float: left;
         color:white;
         }
     .btn svg{
