@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/tattoo/static/css/main.f1d28a08.chunk.css",
-    "main.js": "/tattoo/static/js/main.530996f8.chunk.js",
-    "main.js.map": "/tattoo/static/js/main.530996f8.chunk.js.map",
+    "main.css": "/tattoo/static/css/main.3b5d5422.chunk.css",
+    "main.js": "/tattoo/static/js/main.0fc36322.chunk.js",
+    "main.js.map": "/tattoo/static/js/main.0fc36322.chunk.js.map",
     "runtime-main.js": "/tattoo/static/js/runtime-main.23915efd.js",
     "runtime-main.js.map": "/tattoo/static/js/runtime-main.23915efd.js.map",
     "static/js/2.10e110ed.chunk.js": "/tattoo/static/js/2.10e110ed.chunk.js",
     "static/js/2.10e110ed.chunk.js.map": "/tattoo/static/js/2.10e110ed.chunk.js.map",
     "index.html": "/tattoo/index.html",
-    "precache-manifest.cd064501453e59c8a4ef4ad2325a7de2.js": "/tattoo/precache-manifest.cd064501453e59c8a4ef4ad2325a7de2.js",
+    "precache-manifest.f485f940a585405bfcce978e2334bbde.js": "/tattoo/precache-manifest.f485f940a585405bfcce978e2334bbde.js",
     "service-worker.js": "/tattoo/service-worker.js",
-    "static/css/main.f1d28a08.chunk.css.map": "/tattoo/static/css/main.f1d28a08.chunk.css.map",
+    "static/css/main.3b5d5422.chunk.css.map": "/tattoo/static/css/main.3b5d5422.chunk.css.map",
     "static/js/2.10e110ed.chunk.js.LICENSE.txt": "/tattoo/static/js/2.10e110ed.chunk.js.LICENSE.txt",
     "static/media/App.css": "/tattoo/static/media/Vintage-punk.78cdc59a.ttf",
     "static/media/img1.jpg": "/tattoo/static/media/img1.760d539d.jpg",
@@ -77,7 +77,7 @@
   "entrypoints": [
     "static/js/runtime-main.23915efd.js",
     "static/js/2.10e110ed.chunk.js",
-    "static/css/main.f1d28a08.chunk.css",
-    "static/js/main.530996f8.chunk.js"
+    "static/css/main.3b5d5422.chunk.css",
+    "static/js/main.0fc36322.chunk.js"
   ]
 }
