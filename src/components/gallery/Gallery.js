@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 //components
 import Modal from '../Modal';
 // imagenes 
@@ -7,7 +7,7 @@ import imgs from './imgs';
 import './Gallery.css';
 
 
-export default class ImageGridList extends Component {
+export default class ImageGridList extends React.Component {
   state = {
     open: false,
     target: null,

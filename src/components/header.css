@@ -14,7 +14,10 @@ header{
 }
 
 .textos{
-    text-align: center;
+    display: flex;
+    height: 800px;
+    justify-content: center;
+    align-items: center;
 }
 
 
