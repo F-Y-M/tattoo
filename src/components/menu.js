@@ -11,7 +11,9 @@ class Menu extends Component{
   boton = () =>{
       this.setState({toggle: !this.state.toggle})
   }
+
     render(){
+        
         return(
             <div className="nav">
                 <ToggleButton toggle={this.state.toggle} onClick={this.boton}/>
@@ -19,7 +21,7 @@ class Menu extends Component{
                 ? <ul className="menu">
                 <li className="elemento">
                     <p>
-                        <a href="#home">
+                        <a href="#">
                             home
                         </a>
                     </p>

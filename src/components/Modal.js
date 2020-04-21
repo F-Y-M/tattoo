@@ -31,19 +31,14 @@ export default class Modal extends Component{
       <div>
           <div id="myModal" style={modal} className="modal">
             <div className='flex' id="flex">
-              <center>
                 <div className="contenidoModal">
-                    <div className='modal-header' >
                         <span className="close" id="close" onClick={this.onclick}>
-                            &times;
+                            x
                         </span>
-                    </div>
-                    <img src={this.state.target} alt=""/>
-                    <div className='footer'>
-                        <h3>hecho por &copy; juan quiñones </h3>
+                    <div className="img">
+                      <img src={this.state.target} alt=""/>
                     </div>
                 </div>
-              </center>
             </div>
           </div>
       </div>

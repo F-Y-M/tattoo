@@ -5,6 +5,7 @@ import './App.css';
 import Menu from './components/menu';
 import Header from './components/Header';
 import Gallery from './components/gallery/Gallery';
+import Citas from './components/citas';
 
 
 class App extends Component{
@@ -18,16 +19,19 @@ class App extends Component{
       <div className="App">
           <Menu/>
         <br/>
-        <br/>
         <Header/>
         <br/>
         <br/> 
-        <p  id="galeria">
+        <p  id="galeria" className="app">
         Galeria
         </p>       
         <Gallery/>
         <br/>
         <br/>
+        <p id="citas" className="app">
+          Citas
+        </p>
+        <Citas/>
       </div>
     );
   }
