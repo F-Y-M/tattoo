@@ -16,7 +16,7 @@ export default class ToggleButton extends Component {
     render(){
 
         return(
-            <button className="btn" style={this.state.toggle ? close : open } onClick={this.props.onClick}> 
+            <button className="btn" style={this.state.toggle ? close : open } onClick={this.props.onClick.bind(this)}> 
                 <Svg toggle={this.props.toggle}/>
             </button>
 
