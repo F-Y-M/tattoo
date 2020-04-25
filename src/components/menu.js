@@ -21,7 +21,7 @@ class Menu extends Component{
                 ? <ul className="menu">
                 <li className="elemento">
                     <p>
-                        <a href="#">
+                        <a href="#home">
                             home
                         </a>
                     </p>

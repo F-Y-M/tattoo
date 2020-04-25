@@ -22,11 +22,11 @@ export default class ImageGridList extends React.Component {
  
   render(){
      return (
-       <a href="#">
+       <div>
         <div className="root" name="galeria">
           {imgs.map((img) => (
               <div key={img.index} >
-              <a href="#" style={{cursor:'pointer'}} onClick={this.onClick}>
+              <a href={'#'+img.id} style={{cursor:'pointer'}} onClick={this.onClick}>
                 <img src={img.img} className="gridList" alt="no hay"/>
               </a>
               </div>
@@ -34,7 +34,7 @@ export default class ImageGridList extends React.Component {
           {this.state.open 
               ? <Modal img={imgs} target={this.state.target} open={this.state.open}/> : '' }
         </div>
-        </a>
+        </div>
     );
   }
 }
